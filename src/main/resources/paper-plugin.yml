@@ -1,0 +1,15 @@
+name: Non-stop
+version: '${version}'
+main: io.github.Shai0717.stopreset.StopResetPlugin
+api-version: '26.3'
+description: 1틱 멈춤 챌린지와 바닥 제작 및 자동 배출 화로
+dependencies:
+  server:
+    Kolor:
+      load: BEFORE
+      required: true
+      join-classpath: true
+permissions:
+  nonstop.admin:
+    description: 멈춤 챌린지 관리자 권한
+    default: op
