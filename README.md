@@ -68,4 +68,4 @@ Paper 플러그인 이름은 **Non-stop**이며 Gradle 그룹 및 Kotlin 패키�
 - 제련할 재료와 연료가 있는 동안에는 해당 청크를 플러그인 티켓으로 유지하므로 플레이어가 떠나도 제련이 진행됩니다. 작업이 끝나거나 연료가 떨어지면 티켓을 해제합니다. 활성 화로 위치는 저장되어 서버 재시작 후 복구됩니다. 화로 수가 많으면 유지되는 청크도 많아질 수 있습니다.
 
 
-<iframe src="https://github.com/sponsors/Shai0717/card" title="Sponsor Shai0717" height="225" width="600" style="border: 0;"></iframe>
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/Shai0717?style=flat&logo=githubsponsors&color=ea4aaa)](https://github.com/sponsors/Shai0717)
